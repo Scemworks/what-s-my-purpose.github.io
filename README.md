@@ -29,7 +29,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/scemworks/whats-my-purpose.github.io.git
+git clone https://github.com/Scemworks/what-s-my-purpose.github.io.git
 
 
 2. Open the index.html file in a web browser.
