@@ -1,5 +1,4 @@
 # what-s-my-purpose.github.io
-Here’s a sample GitHub project description for the "What's My Purpose?" website:
 
 
 ---
@@ -30,7 +29,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/whats-my-purpose.git
+git clone https://github.com/scemworks/whats-my-purpose.git
 
 
 2. Open the index.html file in a web browser.
